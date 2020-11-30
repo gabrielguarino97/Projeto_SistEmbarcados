@@ -17,5 +17,5 @@ Projeto desenvolvido para a disciplina de Sistemas Embarcados (SAA0356), desenvo
 * Glauco Caurin
 
 ## Descrição do Projeto:
-
+*Iremos criar um seguidor de canos
 ## Requisitos do Sistema:
